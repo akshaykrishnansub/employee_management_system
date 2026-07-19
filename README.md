@@ -153,14 +153,6 @@ npm run dev
 
 ---
 
-# API Documentation
-
-Complete API documentation is available here:
-
-[API Documentation](docs/API.md)
-
----
-
 # Screenshots
 
 (Add screenshots after capturing the application screens)
