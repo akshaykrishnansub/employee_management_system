@@ -155,7 +155,19 @@ npm run dev
 
 # Screenshots
 
-(Add screenshots after capturing the application screens)
+<img width="1920" height="1080" alt="Screenshot (304)" src="https://github.com/user-attachments/assets/c8188d71-d233-45a3-8e36-b6c51fa7113e" /><br>
+<img width="1920" height="1080" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/afaff3bb-1542-41aa-81f2-783fbc5a6584" /><br>
+<img width="1920" height="1080" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/dfa6e2be-ed5b-41e5-a314-3ffad83e1aa4" /><br>
+<img width="1920" height="1080" alt="Screenshot (306)" src="https://github.com/user-attachments/assets/689351e7-0038-4e28-8848-2bd8d52b26e5" /><br>
+<img width="1920" height="1080" alt="Screenshot (307)" src="https://github.com/user-attachments/assets/7538f7ba-b4c2-4bee-b2f9-0eb5e229f56a" /><br>
+<img width="465" height="1080" alt="Screenshot (310)" src="https://github.com/user-attachments/assets/26f1864a-bc83-4ac5-891a-f414d5e7aebf" />
+
+
+
+
+
+
+
 
 ---
 
